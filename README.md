@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vengadesh-max&label=Profile%20views&color=0e75b6&style=flat" alt="vengadesh-max" /> </p>
 
-- 🔭 I’m currently working on [GrapplTech](https://github.com/vengadesh-max/GrapplTech-Community-Built-Web-Components)
+- 🔭 I Interned at [GrapplTech](https://github.com/vengadesh-max/GrapplTech-Community-Built-Web-Components),CodeClause and VDart
 
 - 🌱 I’m currently learning **Data structures and Algorithm, MongoDB, CS-fundamentals**
 
