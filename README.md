@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithm, MongoDB, CS-fundamentals**
 
-- 👨‍💻 All of my projects are available at [https://vengadesh-57.github.io/Portfolio/#resume](https://vengadesh-57.github.io/Portfolio/#resume)
+- 👨‍💻 All of my projects are available at [https://vengadesh-max.github.io/Portfolio/](https://vengadesh-max.github.io/Portfolio/)
 
 - 📫 How to reach me **bvengadesh25504@gmail.com**
 
