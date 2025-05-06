@@ -6,7 +6,7 @@
 
 - 🔭 I Interned at Afame, GrapplTech, CodeClause and VDart
 
-- 🌱 I’m currently learning **Data structures and Algorithm, NLP, GenAI, Langchain**
+- 🌱 I’m currently learning **Data structures and Algorithm, NLP, Gen AI, Langchain**
 
 - 👨‍💻 All of my projects are available at [https://vengadesh-max.github.io/Portfolio/](https://vengadesh-max.github.io/Portfolio/)
 
