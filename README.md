@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working as a SDE Intern @SatSure Analytics
 
-- 👨‍💻 Portfolio [https://vengadesh-max.github.io/Portfolio/](https://vengadesh-max.github.io/Portfolio/)
+- 👨‍💻 Portfolio [https://portfolio-updated-theta-umber.vercel.app/](https://portfolio-updated-theta-umber.vercel.app/)
 
 - 📫 reach out to me on **bvengadesh25504@gmail.com**
 
